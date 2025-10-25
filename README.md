@@ -45,5 +45,4 @@
        alt="amarnath-ghosh" />
 </p>
 
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=amarnath-ghosh&bg_color=000000&color=fbff00&line=f5d400&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"> </img>
 
