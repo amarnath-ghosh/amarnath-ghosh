@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Study-Buddy](https://study-buddy-drab.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://not-amarnath.vercel.app/](https://not-amarnath.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/not-amarnath](https://github.com/not-amarnath)
 
 - 💬 Ask me about `Web Development` , `Data Structures & Algorithms` , `Database & Management Systems`
 
